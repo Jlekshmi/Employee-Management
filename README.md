@@ -1,5 +1,7 @@
 # Employee Management System
 
+![employees](https://github.com/user-attachments/assets/7c95f8f3-3f43-4b87-8928-95b6062c2735)
+
 The **Employee Management System** is a full-stack web application designed to streamline employee data management within an organization. It provides features like adding, updating, viewing, and deleting employee information, as well as managing employee status, retirement tracking, and filtering capabilities.
 
 ---
