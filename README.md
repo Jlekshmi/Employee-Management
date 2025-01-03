@@ -46,6 +46,22 @@ The **Employee Management System** is a full-stack web application designed to s
 - **Dotenv**: To securely manage environment variables.
 
 ---
+Key Functionalities
+Authentication:
+
+Secure login using JWT.
+Employee Data Validation:
+
+Schema-based validation using Mongoose.
+GraphQL API:
+
+Fetch and manipulate data with efficient queries.
+Retirement Status:
+
+Automatically calculate and display upcoming retirements.
+Error Handling:
+
+Comprehensive error management for data operations.
 
 ## Installation and Setup
 
@@ -53,3 +69,8 @@ The **Employee Management System** is a full-stack web application designed to s
 - Node.js
 - npm or yarn
 - MongoDB database (local or cloud-based)
+
+Install Dependencies:
+npm run installall (Installs all client and server dependencies).
+Start Development Server:
+npm start (Runs both frontend and backend).
